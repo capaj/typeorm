@@ -1302,6 +1302,11 @@ This project exists thanks to all the people who contribute:
 
 <a href="https://github.com/typeorm/typeorm/graphs/contributors"><img src="https://opencollective.com/typeorm/contributors.svg?width=890&showBtn=false" /></a>
 
+## TC39 decorators proposal
+
+Please if you enjoy typeORM, go and star repo with the [proposal-decorators
+](https://github.com/tc39/proposal-decorators). That's a way to show the TC39 members that you are actively using decorators and you want to have them in the language.
+
 ## Sponsors
 
 Open source is hard and time-consuming. If you want to invest in TypeORM's future you can become a sponsor and allow our core team to spend more time on TypeORM's improvements and new features. [Become a sponsor](https://opencollective.com/typeorm)
